@@ -10,6 +10,7 @@ import decunify from './img/Partners/logo_Decunify.png';
 const PartnersSection = styled.section `
 width: 100%;
 text-align: center;
+color: #686867;
 
 div {
     width: 100%
@@ -28,7 +29,7 @@ div {
 function Partners() {
   return (
     <PartnersSection>
-        <h2>Partners</h2>
+        <h2>PARTNERS</h2>
         <div>
             <img src={continental} alt=''></img>
             <img src={saltpay} alt=''></img>
