@@ -6,7 +6,7 @@ import Rounds from './components/Rounds';
 import Networking from './components/Networking';
 import Jury from './components/Jury';
 import Partners from './components/Partners';
-import CoreTeam from './components/CoreTeam';
+import CoreTeam from './components/CoreTeam/CoreTeam';
 
 function App() {
   return (
@@ -37,8 +37,8 @@ Rounds
 Networking
 Jury
 Partners
-Pending(lots):
 CoreTeam
+Pending(lots):
 Previous
 FAQs
 Footer
