@@ -1,11 +1,11 @@
-import React from 'react'
-import styled from 'styled-components'
-import continental from './img/Partners/Continental Engineering Services.jpg'
-import saltpay from './img/Partners/SaltPay.svg'
-import stet from './img/Partners/STET.png'
-import bi4all from './img/Partners/BI4ALL_logo_color.png'
-import platform from './img/Partners/platforme logo.jpg'
-import decunify from './img/Partners/logo_Decunify.png'
+import React from 'react';
+import styled from 'styled-components';
+import continental from './img/Partners/Continental Engineering Services.jpg';
+import saltpay from './img/Partners/SaltPay.png';
+import stet from './img/Partners/STET.png';
+import bi4all from './img/Partners/BI4ALL_logo_color.png';
+import platform from './img/Partners/platforme logo.jpg';
+import decunify from './img/Partners/logo_Decunify.png';
 
 const PartnersSection = styled.section `
 width: 100%;

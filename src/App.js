@@ -6,6 +6,7 @@ import Rounds from './components/Rounds';
 import Networking from './components/Networking';
 import Jury from './components/Jury';
 import Partners from './components/Partners';
+import CoreTeam from './components/CoreTeam';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
     <Networking />
     <Jury />
     <Partners />
+    <CoreTeam />
     </>
   );
 }
