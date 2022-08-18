@@ -1,23 +1,23 @@
 export const NavbarData = [
     {
         title:"Jury",
-        link:"/Juris",
+        link:"#Juris",
     },
     {
         title:"Partners",
-        link:"/Partners",
+        link:"#Partners",
     },
     {
         title:"Core Team",
-        link:"/CoreTeam",
+        link:"#CoreTeam",
     },
     {
         title:"Previous Editions",
-        link:"/Previous",
+        link:"#Previous",
     },
     {
         title:"FAQs",
-        link:"/FAQs",
+        link:"#FAQs",
     },
 ]
 

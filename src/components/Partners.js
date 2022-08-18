@@ -11,6 +11,7 @@ const PartnersSection = styled.section `
 width: 100%;
 text-align: center;
 color: #686867;
+padding-top: 40px;
 
 div {
     width: 100%
@@ -28,7 +29,7 @@ div {
 
 function Partners() {
   return (
-    <PartnersSection>
+    <PartnersSection id='Partners'>
         <h2>PARTNERS</h2>
         <div>
             <img src={continental} alt=''></img>

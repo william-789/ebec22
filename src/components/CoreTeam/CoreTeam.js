@@ -57,7 +57,7 @@ div {
 
 function CoreTeam() {
   return (
-    <TeamSection>
+    <TeamSection id='CoreTeam'>
         <h2>CORE TEAM</h2>
         {CoreTeamData.map((item) => {
         return(

@@ -7,6 +7,9 @@ import Networking from './components/Networking';
 import Jury from './components/Jury';
 import Partners from './components/Partners';
 import CoreTeam from './components/CoreTeam/CoreTeam';
+import Previous from './components/Previous';
+import FAQ from './components/FAQ';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -20,6 +23,9 @@ function App() {
     <Jury />
     <Partners />
     <CoreTeam />
+    <Previous />
+    <FAQ />
+    <Footer />
     </>
   );
 }

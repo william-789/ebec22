@@ -41,7 +41,7 @@ div {
 
 function Jury() {
   return (
-    <JurySection>
+    <JurySection id='Juris'>
         <h2>JURY</h2>
         <h2>Team Design</h2>
         <FlexRow>
