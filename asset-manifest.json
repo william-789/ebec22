@@ -1,38 +1,30 @@
 {
   "files": {
     "main.css": "/ebec22/static/css/main.c1aa870a.css",
-    "main.js": "/ebec22/static/js/main.ae37b80b.js",
+    "main.js": "/ebec22/static/js/main.37d48b21.js",
     "static/media/casestudy.jpg": "/ebec22/static/media/casestudy.6d7ee579c4a6c4048cd8.jpg",
-    "static/media/Rui Coutinho.jpg": "/ebec22/static/media/Rui Coutinho.01b6679d4da2db09af4f.jpg",
-    "static/media/josesantos1.jpeg": "/ebec22/static/media/josesantos1.43ecd85baef52f594ecc.jpeg",
     "static/media/teamdesign.jpg": "/ebec22/static/media/teamdesign.757071e14fbb44bccf71.jpg",
     "static/media/backgroundHome.jpg": "/ebec22/static/media/backgroundHome.f6e62f2afb056a4ea542.jpg",
-    "static/media/Andreenes1.jpeg": "/ebec22/static/media/Andreenes1.ec9b79e4877d24e28379.jpeg",
-    "static/media/Margarida Martins.jpeg": "/ebec22/static/media/Margarida Martins.719534581ed9788f1661.jpeg",
-    "static/media/Rita Fernandes.jpeg": "/ebec22/static/media/Rita Fernandes.495d4c9469655b48dc80.jpeg",
-    "static/media/filipalima1.jpeg": "/ebec22/static/media/filipalima1.c0dfbaa5017bc1f502ff.jpeg",
-    "static/media/josevieira1.jpeg": "/ebec22/static/media/josevieira1.041c0fcdff14eb48dc2e.jpeg",
-    "static/media/carolinasousa1.jpeg": "/ebec22/static/media/carolinasousa1.239e6bb26eac5a7ebd96.jpeg",
     "static/media/EBEC_pyramid_2018.jpg": "/ebec22/static/media/EBEC_pyramid_2018.934cfac1f24103d83313.jpg",
-    "static/media/julianagoncalves1.jpeg": "/ebec22/static/media/julianagoncalves1.3701808171d0f2e21d28.jpeg",
-    "static/media/andreassuncao1.png": "/ebec22/static/media/andreassuncao1.bf9cc3308424cba1e610.png",
     "static/media/NetworkingImg.jpg": "/ebec22/static/media/NetworkingImg.1ef39a807afbd92769dd.jpg",
-    "static/media/Professor Fernando Pereira.jpg": "/ebec22/static/media/Professor Fernando Pereira.ec49a2e511004ed16039.jpg",
-    "static/media/Professor Marco Parente.jpg": "/ebec22/static/media/Professor Marco Parente.acf61cd29b06cb6e97a0.jpg",
+    "static/media/foxCreated.jpg": "/ebec22/static/media/foxCreated.4d418287be2e2113407c.jpg",
+    "static/media/foxCreatedJury.jpg": "/ebec22/static/media/foxCreatedJury.9e873a8a8241c13d7fc9.jpg",
     "static/media/logo_Decunify.png": "/ebec22/static/media/logo_Decunify.881e96400b98738e6edc.png",
     "static/media/BI4ALL_logo_color.png": "/ebec22/static/media/BI4ALL_logo_color.92ab0779bf24843f93fc.png",
-    "static/media/Professor José Luís Santos.jpg": "/ebec22/static/media/Professor José Luís Santos.76a285253390ce7f0053.jpg",
-    "static/media/Professora Carla Rosa.jpg": "/ebec22/static/media/Professora Carla Rosa.e0ad190df3bf3c2d5d4f.jpg",
+    "static/media/Previous-5.jpg": "/ebec22/static/media/Previous-5.6fa8e675ef6320a71f0b.jpg",
+    "static/media/Previous-1.jpg": "/ebec22/static/media/Previous-1.d696eff5fb68d42d4028.jpg",
+    "static/media/Previous-3.jpg": "/ebec22/static/media/Previous-3.4191099d8009b7bff385.jpg",
+    "static/media/Previous-4.jpg": "/ebec22/static/media/Previous-4.f55f5f54d91e8be25636.jpg",
+    "static/media/Previous-2.jpg": "/ebec22/static/media/Previous-2.167969deb7680f62838c.jpg",
     "static/media/platforme logo.jpg": "/ebec22/static/media/platforme logo.52e471717820437f48aa.jpg",
-    "static/media/Professor António Silva.jpg": "/ebec22/static/media/Professor António Silva.afeb66398fc61cf451a8.jpg",
     "static/media/logo.png": "/ebec22/static/media/logo.e436e1a709a9f85b5c6c.png",
     "static/media/saltpay.svg": "/ebec22/static/media/saltpay.9d1d27775ab5cc03ee065dab03e96f7b.svg",
     "index.html": "/ebec22/index.html",
     "main.c1aa870a.css.map": "/ebec22/static/css/main.c1aa870a.css.map",
-    "main.ae37b80b.js.map": "/ebec22/static/js/main.ae37b80b.js.map"
+    "main.37d48b21.js.map": "/ebec22/static/js/main.37d48b21.js.map"
   },
   "entrypoints": [
     "static/css/main.c1aa870a.css",
-    "static/js/main.ae37b80b.js"
+    "static/js/main.37d48b21.js"
   ]
 }
