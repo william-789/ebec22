@@ -8,7 +8,7 @@ import Jury from './components/Jury';
 import Partners from './components/Partners';
 import CoreTeam from './components/CoreTeam/CoreTeam';
 import Previous from './components/Previous';
-import FAQ from './components/FAQ';
+import FAQ from './components/FAQ/FAQ';
 import Footer from './components/Footer';
 
 function App() {

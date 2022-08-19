@@ -1,16 +1,8 @@
 import React from 'react'
 import styled from 'styled-components'
-/*Team design - images*/
-import marco from './img/Jury/Professor Marco Parente.jpg'
-import rui from './img/Jury/Rui Coutinho.jpg'
+/*images*/
+import standardPic from './img/Jury/foxCreatedJury.jpg'
 import saltpay from './img/Jury/saltpay.svg'
-/*Case Study - images*/
-import antonio from './img/Jury/Professor António Silva.jpg'
-import jose from './img/Jury/Professor José Luís Santos.jpg'
-import fernando from './img/Jury/Professor Fernando Pereira.jpg'
-import carla from './img/Jury/Professora Carla Rosa.jpg'
-import rita from './img/Jury/Rita Fernandes.jpeg'
-import margarida from './img/Jury/Margarida Martins.jpeg'
 
 const JurySection = styled.section `
 width: 100%;
@@ -43,14 +35,15 @@ function Jury() {
   return (
     <JurySection id='Juris'>
         <h2>JURY</h2>
+        <i>The images of the Jury were mostly replaced in this version for security matters.</i>
         <h2>Team Design</h2>
         <FlexRow>
             <div>
-                <img src={marco} alt=''></img>
+                <img src={standardPic} alt=''></img>
                 <p>Marco Parente</p>
             </div>
             <div>
-                <img src={rui} alt=''></img>
+                <img src={standardPic} alt=''></img>
                 <p>Rui Coutinho</p>
             </div>
             <div>
@@ -63,29 +56,29 @@ function Jury() {
 
         <FlexRow>
             <div>
-                <img src={antonio} alt=''></img>
+                <img src={standardPic} alt=''></img>
                 <p>António Silva</p>
             </div>
             <div>
-                <img src={jose} alt=''></img>
+                <img src={standardPic} alt=''></img>
                 <p>José Luís Santos</p>
             </div>
             <div>
-                <img src={fernando} alt=''></img>
+                <img src={standardPic} alt=''></img>
                 <p>Fernando Pereira</p>
             </div>
         </FlexRow>
         <FlexRow>
             <div>
-                <img src={carla} alt=''></img>
+                <img src={standardPic} alt=''></img>
                 <p>Carla Rosa</p>
             </div>
             <div>
-                <img src={rita} alt=''></img>
+                <img src={standardPic} alt=''></img>
                 <p>Rita Fernandes</p>
             </div>
             <div>
-                <img src={margarida} alt=''></img>
+                <img src={standardPic} alt=''></img>
                 <p>Margarida Martins</p>
             </div>
         </FlexRow>

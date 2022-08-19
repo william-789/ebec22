@@ -59,6 +59,7 @@ function CoreTeam() {
   return (
     <TeamSection id='CoreTeam'>
         <h2>CORE TEAM</h2>
+        <i> The e-mail address mentioned below is that of the developer. The personal e-mail address of the event and its creators as well as their pictures was taken down in this version for security matters.</i>
         {CoreTeamData.map((item) => {
         return(
             <Members>

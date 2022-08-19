@@ -32,7 +32,7 @@ function Navbar() {
       {NavbarData.map((item) => {
         return(
           <li>
-            <a href={item.link} onClick={smoothScroll}>
+            <a href={item.link} onClick={smoothScroll} key={item.title}>
             {item.title}
             </a>
           </li>
